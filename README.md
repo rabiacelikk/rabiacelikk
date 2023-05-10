@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍🚀Hello I'm Rabia <br>🔭Front-end Developer <br>👩‍🎓I'm currently working JavaScript <br>☄️I'm currently learning React and Node.js<br>🌌I know HTML/CSS and C#
+👩‍🚀Hello I'm Rabia <br>🔭Front-end Developer <br>👩‍🎓I'm currently working JavaScript <br>🌌I know HTML/CSS and C#
 
 
 ## 🌐 Socials:
